@@ -1,13 +1,5 @@
 <h1 align="center" id="title">NextGen Learning Platform: A Udemy Clone Revolutionizing Online Education</h1>
 
-<p align="center"><img src="https://media.graphassets.com/cPlC13OsTaCHl8ytfxht" alt="project-image"></p>
-
-<p id="description">Embark on a transformative journey in online education with our pioneering project a Udemy clone designed to redefine the e-learning landscape. Leveraging cutting-edge technologies and a suite of professional features our platform empowers users to engage learn and grow like never before.</p>
-
-<h2>🚀 Demo</h2>
-
-[https://www.sammi-praktikum.uz](https://www.sammi-praktikum.uz)
-
 <h2>🧐 Features</h2>
 
 Here're some of the project's best features:
