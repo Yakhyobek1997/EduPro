@@ -1,4 +1,4 @@
-<h1 align="center" id="title">NextGen Learning Platform: A Udemy Clone Revolutionizing Online Education</h1>
+<h1 align="center" id="title">NextGen Learning Platform: Yagu - Revolutionizing Online Education</h1>
 
 <h2>🧐 Features</h2>
 
