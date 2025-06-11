@@ -28,26 +28,25 @@ export async function generateStaticParams() {
 }
 
 export const metadata: Metadata = {
-	metadataBase: new URL('https://startup.sammi.ac'),
-	title: 'Sammi praktikum | Dasturlash kurslari',
+	title: 'Yahyo| Dasturlash kurslari',
 	description:
-		"Sammi Praktikum Next.js dasturlash kurslari, amaliyotlar, startup loyihalar va asosiysi sifatli ta'limdir.",
-	authors: [{ name: 'Samar Badriddinov', url: 'https://startup.sammi.ac' }],
-	icons: { icon: '/logo.svg' },
+		"Yahyo Sobirjonov  startup loyihalar va asosiysi sifatli ta'limdir.",
+	authors: [{ name: 'Yahyo Sobirjonov', url: '' }],
+	icons: { icon: '/main_logo.png' },
 	openGraph: {
-		title: 'Sammi praktikum | Dasturlash kurslari',
+		title: 'Yahyo Sobirjonov',
 		description:
-			"Sammi Praktikum Next.js dasturlash kurslari, amaliyotlar, startup loyihalar va asosiysi sifatli ta'limdir.",
+			"Online Ta'lim platforma",
 		type: 'website',
-		url: 'https://startup.sammi.ac',
+		url: 'https://startup.Yahyo Sobirjonov.ac',
 		locale: 'uz_UZ',
 		images: 'https://media.graphassets.com/f4jkBWQ6SVaKwySKRNQT',
 		countryName: 'Uzbekistan',
-		siteName: 'Sammi',
-		emails: 'info@sammi.ac',
+		siteName: 'Yahyo Sobirjonov',
+		emails: 'info@Yahyo Sobirjonov.ac',
 	},
 	keywords:
-		"Praktikum, Praktikum sammi, NextJS, NextJS to'liq kurs, NextJS kurs, NextJS dasturlash, Startup, Startup loyiha, Startup sammi, Sammi, Sammi praktikum, Sammi dasturlash, Sammi startup, Sammi kurs, Sammi kurslari, Sammi dasturlash kurslari, Sammi startup kurslari, Sammi startup loyihalari, Sammi startup loyiha, Sammi startup loyihasi, Sammi startup loyihasi dasturlash",
+		"Online AI ta'lim platforma",
 }
 
 interface Props extends ChildProps {

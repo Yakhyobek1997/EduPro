@@ -437,6 +437,10 @@ export const getStudentCourse = async (clerkId: string) => {
 		await connectToDatabase()
 		const user = await User.findOne({ clerkId }).select('_id')
 
+		if (!user) {
+			throw new Error('User not found');
+		}
+
 		const purchasedCourses = await Purchase.find({ user: user._id }).populate({
 			path: 'course',
 			model: Course,
@@ -458,9 +462,11 @@ export const getStudentCourse = async (clerkId: string) => {
 
 		return { allCourses, expenses }
 	} catch (error) {
+		console.error("getStudentCourse Error:", error);
 		throw new Error('Something went wrong while getting student courses!')
 	}
 }
+
 
 export const getWishlist = async (clerkId: string) => {
 	try {

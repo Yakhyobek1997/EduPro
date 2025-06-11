@@ -62,7 +62,7 @@ function FirstForm({ onHandler }: Props) {
 								<Input
 									{...field}
 									className='bg-primary/10'
-									placeholder='example@sammi.ac'
+									placeholder='example@Yahyo Sobirjonov.ac'
 									disabled={true}
 								/>
 							</FormControl>

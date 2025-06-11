@@ -6,7 +6,7 @@
 
 <h2>🚀 Demo</h2>
 
-[https://www.sammi-praktikum.uz](https://www.sammi-praktikum.uz)
+[https://www.Yahyo Sobirjonov-praktikum.uz](https://www.Yahyo Sobirjonov-praktikum.uz)
 
 <h2>🧐 Features</h2>
 
@@ -29,7 +29,7 @@ Here're some of the project's best features:
 <p>1. Clone project</p>
 
 ```
-git clone https://github.com/samarbadriddin0v/startup.sammi.ac
+git clone https://github.com/samarbadriddin0v/startup.Yahyo Sobirjonov.ac
 ```
 
 <p>2. Install packages</p>

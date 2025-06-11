@@ -76,10 +76,10 @@ export const courses = [
 	{
 		title: 'JavaScript',
 		previewImage:
-			'https://sammi.ac/_next/image?url=https%3A%2F%2Futfs.io%2Ff%2F35ca3db9-fb43-4f12-bd48-8b08a503db09-kilwwj.png&w=1920&q=75',
+			'https://Yahyo Sobirjonov.ac/_next/image?url=https%3A%2F%2Futfs.io%2Ff%2F35ca3db9-fb43-4f12-bd48-8b08a503db09-kilwwj.png&w=1920&q=75',
 		author: {
 			image:
-				'https://blog.sammi.app/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FKmuGvX9oRjYkG3bzttvc&w=1920&q=75',
+				'https://blog.Yahyo Sobirjonov.app/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FKmuGvX9oRjYkG3bzttvc&w=1920&q=75',
 			name: 'Chris Impley',
 		},
 		oldPrice: 179,
@@ -89,10 +89,10 @@ export const courses = [
 	{
 		title: 'ReactJS',
 		previewImage:
-			'https://sammi.ac/_next/image?url=https%3A%2F%2Futfs.io%2Ff%2Fa8573b7c-95b2-4459-8414-8eacde874b0a-kilwdl.png&w=1920&q=75',
+			'https://Yahyo Sobirjonov.ac/_next/image?url=https%3A%2F%2Futfs.io%2Ff%2Fa8573b7c-95b2-4459-8414-8eacde874b0a-kilwdl.png&w=1920&q=75',
 		author: {
 			image:
-				'https://blog.sammi.app/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FKmuGvX9oRjYkG3bzttvc&w=1920&q=75',
+				'https://blog.Yahyo Sobirjonov.app/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FKmuGvX9oRjYkG3bzttvc&w=1920&q=75',
 			name: 'Chris Impley',
 		},
 		oldPrice: 159,
@@ -102,10 +102,10 @@ export const courses = [
 	{
 		title: 'VueJS',
 		previewImage:
-			'https://sammi.ac/_next/image?url=https%3A%2F%2Futfs.io%2Ff%2Fbddfc919-2260-46dd-a078-b956bd9a377c-kilwcq.png&w=1920&q=75',
+			'https://Yahyo Sobirjonov.ac/_next/image?url=https%3A%2F%2Futfs.io%2Ff%2Fbddfc919-2260-46dd-a078-b956bd9a377c-kilwcq.png&w=1920&q=75',
 		author: {
 			image:
-				'https://blog.sammi.app/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FKmuGvX9oRjYkG3bzttvc&w=1920&q=75',
+				'https://blog.Yahyo Sobirjonov.app/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FKmuGvX9oRjYkG3bzttvc&w=1920&q=75',
 			name: 'Chris Impley',
 		},
 		oldPrice: 129,
@@ -115,10 +115,10 @@ export const courses = [
 	{
 		title: 'Telegram BOT',
 		previewImage:
-			'https://sammi.ac/_next/image?url=https%3A%2F%2Futfs.io%2Ff%2F1662922d-b61d-401b-aa1a-693a6231d8a0-kilw9a.png&w=1920&q=75',
+			'https://Yahyo Sobirjonov.ac/_next/image?url=https%3A%2F%2Futfs.io%2Ff%2F1662922d-b61d-401b-aa1a-693a6231d8a0-kilw9a.png&w=1920&q=75',
 		author: {
 			image:
-				'https://blog.sammi.app/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FKmuGvX9oRjYkG3bzttvc&w=1920&q=75',
+				'https://blog.Yahyo Sobirjonov.app/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FKmuGvX9oRjYkG3bzttvc&w=1920&q=75',
 			name: 'Chris Impley',
 		},
 		oldPrice: 209,
@@ -128,10 +128,10 @@ export const courses = [
 	{
 		title: 'React Native',
 		previewImage:
-			'https://sammi.ac/_next/image?url=https%3A%2F%2Futfs.io%2Ff%2F27f17594-ae28-4fe1-86ce-964a5c89c78d-kilw7k.png&w=1920&q=75',
+			'https://Yahyo Sobirjonov.ac/_next/image?url=https%3A%2F%2Futfs.io%2Ff%2F27f17594-ae28-4fe1-86ce-964a5c89c78d-kilw7k.png&w=1920&q=75',
 		author: {
 			image:
-				'https://blog.sammi.app/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FKmuGvX9oRjYkG3bzttvc&w=1920&q=75',
+				'https://blog.Yahyo Sobirjonov.app/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FKmuGvX9oRjYkG3bzttvc&w=1920&q=75',
 			name: 'Chris Impley',
 		},
 		oldPrice: 129,
@@ -141,10 +141,10 @@ export const courses = [
 	{
 		title: 'Foundation',
 		previewImage:
-			'https://sammi.ac/_next/image?url=https%3A%2F%2Futfs.io%2Ff%2Fbcdfb541-3300-430f-b8b2-ff0fb57df056-kilw6p.png&w=1920&q=75',
+			'https://Yahyo Sobirjonov.ac/_next/image?url=https%3A%2F%2Futfs.io%2Ff%2Fbcdfb541-3300-430f-b8b2-ff0fb57df056-kilw6p.png&w=1920&q=75',
 		author: {
 			image:
-				'https://blog.sammi.app/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FKmuGvX9oRjYkG3bzttvc&w=1920&q=75',
+				'https://blog.Yahyo Sobirjonov.app/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FKmuGvX9oRjYkG3bzttvc&w=1920&q=75',
 			name: 'Chris Impley',
 		},
 		oldPrice: 209,
@@ -174,19 +174,19 @@ export const instructors = [
 	{
 		name: 'Chris Impley',
 		image:
-			'https://blog.sammi.app/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FKmuGvX9oRjYkG3bzttvc&w=1920&q=75',
+			'https://blog.Yahyo Sobirjonov.app/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FKmuGvX9oRjYkG3bzttvc&w=1920&q=75',
 		job: 'Web Developer',
 	},
 	{
 		name: 'Thomas Winter',
 		image:
-			'https://blog.sammi.app/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FdT22spgATpzG10VG3TSA&w=3840&q=75',
+			'https://blog.Yahyo Sobirjonov.app/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FdT22spgATpzG10VG3TSA&w=3840&q=75',
 		job: 'Photographer',
 	},
 	{
 		name: 'Emma Watson',
 		image:
-			'https://blog.sammi.app/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FmhvJXIm9QuykyIp3bm4Q&w=3840&q=75',
+			'https://blog.Yahyo Sobirjonov.app/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FmhvJXIm9QuykyIp3bm4Q&w=3840&q=75',
 		job: 'Digital Marketer',
 	},
 	{
